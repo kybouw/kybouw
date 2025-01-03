@@ -2,8 +2,7 @@
 
 Welcome! 👋
 
-- 🔭 I’m currently working on a portfolio site using Astro 👨‍🚀
-- 🌱 I’m currently learning Tailwind CSS 💻
+- 🔭 Currently working through Thorsten Ball's *Writing an Interpreter in Go* 👨‍🚀
 - 📫 How to reach me: [kyle@kybouw.com](mailto:kyle@kybouw.com) 📧
 
 <!--
